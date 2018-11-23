@@ -2,7 +2,7 @@
 let userScore = 0;
 let computerScore = 0;
 
-//cash in the DOM,storing DOM elements in variables for latter use
+//cach in the DOM,storing DOM elements in variables for latter use
 //instead of referencing document.getElementById()every time when is needed
 const userScore_span = document.getElementById("user-score");
 const computerScore_span = document.getElementById("computer-score");
