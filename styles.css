@@ -77,7 +77,6 @@ img {
 .choices {
     /*to center images container*/
     text-align: center;
-    margin-top: 15vh;
 }
 .choice {
     /*to make images horizontal*/
@@ -101,7 +100,7 @@ img {
     font-family: 'Asap', sans-serif;
     font-weight: bold;
     font-size: 20px;
-    margin-top: 20px;
+    margin: 20px;
 }
 
 .green-glow {
@@ -122,7 +121,6 @@ img {
 .playground{
     text-align: center;
     text-justify: auto;
-    height: 20vh;
 
 }
 
